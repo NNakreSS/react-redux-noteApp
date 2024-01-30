@@ -1,0 +1,23 @@
+import { FaGithub } from "react-icons/fa6";
+import CreateNote from "./CreateNote";
+import Header from "./Header";
+import Notes from "./Notes";
+import Search from "./Search";
+
+function Main() {
+  return (
+    <>
+      <Header />
+      <CreateNote />
+      <Search />
+      <Notes />
+      <footer className="w-full flex items-center justify-center mt-10 text-4xl">
+        <a target="_blank" href="https://github.com/NNakreSS">
+          <FaGithub />
+        </a>
+      </footer>
+    </>
+  );
+}
+
+export default Main;
