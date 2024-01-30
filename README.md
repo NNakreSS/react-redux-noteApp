@@ -1,4 +1,12 @@
-# React + Vite
+# React + Vite  / Redux - TailwindCss
+
+[Live Demo](https://nnakress.github.io/react-redux-noteApp/)
+
+-> yarn
+-> yarn dev
+
+or
+
 -> npm install
 -> npm run dev
 

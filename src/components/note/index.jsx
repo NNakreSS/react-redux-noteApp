@@ -12,7 +12,7 @@ function Main() {
       <Search />
       <Notes />
       <footer className="w-full flex items-center justify-center mt-10 text-4xl">
-        <a target="_blank" href="https://github.com/NNakreSS">
+        <a target="_blank" href="https://github.com/NNakreSS/react-redux-noteApp">
           <FaGithub />
         </a>
       </footer>
