@@ -6,7 +6,7 @@ import Search from "./Search";
 
 function Main() {
   return (
-    <>
+    <div className="container m-auto">
       <Header />
       <CreateNote />
       <Search />
@@ -16,7 +16,7 @@ function Main() {
           <FaGithub />
         </a>
       </footer>
-    </>
+    </div>
   );
 }
 

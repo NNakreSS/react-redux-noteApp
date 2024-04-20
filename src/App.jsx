@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <NextUIProvider>
-        <main className="dark text-foreground bg-background p-10 min-h-screen h-full">
+        <main className="dark text-foreground bg-background p-10 min-h-screen h-full m-auto">
           <NoteAPP />
         </main>
       </NextUIProvider>
